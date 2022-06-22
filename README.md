@@ -1,1 +1,3 @@
-# curso git e github
+# Curso Git e GitHub
+
+DESCRIÇÃO DO CURSO
